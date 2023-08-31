@@ -2,6 +2,9 @@
 The Menu Project is a React application that displays a menu of items based on different categories. Users can filter the menu items by category using interactive buttons. This project is a great example of how to create a simple filtering functionality in a React application.
 
 
+![mobile (8)](https://github.com/DarboeDev/Menu/assets/125799918/b37677c3-7ac6-4dd8-bf8d-7961709e41e3)
+![mobile (7)](https://github.com/DarboeDev/Menu/assets/125799918/4013d022-c411-4212-8ab6-4bc35ad2a439)
+
 # Description
 The Menu Project demonstrates how to build a dynamic menu application using React. It consists of two main components:
 
